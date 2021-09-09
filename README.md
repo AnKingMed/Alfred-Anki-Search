@@ -1,13 +1,11 @@
-<b>This add-on was funded by the Anki Palace. Please consider supporting our work using the links below so we can continue to fund add-on projects like this.</b>
+## How to Setup
+1. Install the <a href="https://ankiweb.net/shared/info/2055492159">AnkiConnect</a> add-on and restart Anki
+2. If you are a Mac user, you will need to follow the <a href="https://foosoft.net/projects/anki-connect/">instructions</a> under `Notes for macOS Users` 
+3. Install the <a href="https://github.com/AnKingMed/Alfred-Anki-Search/releases">Alfred  Workflow</a>
+4. After toggling Alfred, type `anki` followed by the term you want to search
 
-You must be on Anki *** to use this add-on
-
-*** Add-on description
-
-<div><b>Screenshots</b></div>
-<img src="https://raw.githubusercontent.com/ankipalace/anki-field-autocomplete/master/screenshots/dropdown.gif?raw=true">
-  <br>
-  <br>
+## Screenshot
+<img src="/screenshots/Alfred Anki Searcher.gif">
 
 <b>Problems, Bugs, Errors, Improvements</b>
 If you find a serious bug, please submit it on <a href="https://github.com/ankingmed/" rel="nofollow">Github</a> or email us at ankingmed@gmail.com. Please remember that we are not coders and thus may not be able to provide support.
