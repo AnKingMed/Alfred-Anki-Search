@@ -7,12 +7,11 @@
 ## Screenshot
 <img src="/screenshots/Alfred Anki Searcher.gif">
 
-<b>Problems, Bugs, Errors, Improvements</b>
+### Problems, Bugs, Errors, Improvements
 If you find a serious bug, please submit it on <a href="https://github.com/ankingmed/" rel="nofollow">Github</a> or email us at ankingmed@gmail.com. Please remember that we are not coders and thus may not be able to provide support.
 
-<b>Changelog:</b>
-  <br>
-2021***: Initial Release
+### Changelog:
+2021-09-09: Initial Release
 
 
 <b>Please consider checking out our:</b>
