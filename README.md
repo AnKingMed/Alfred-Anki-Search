@@ -10,7 +10,7 @@ You must be on Anki *** to use this add-on
   <br>
 
 <b>Problems, Bugs, Errors, Improvements</b>
-If you find a serious bug, please submit it on <a href="https://github.com/ankipalace/" rel="nofollow">Github</a> or email us at ankingmed@gmail.com. Please remember that we are not coders and thus may not be able to provide support.
+If you find a serious bug, please submit it on <a href="https://github.com/ankingmed/" rel="nofollow">Github</a> or email us at ankingmed@gmail.com. Please remember that we are not coders and thus may not be able to provide support.
 
 <b>Changelog:</b>
   <br>
