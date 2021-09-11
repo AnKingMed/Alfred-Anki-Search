@@ -23,34 +23,13 @@
 	<key>createdby</key>
 	<string>madmaximux</string>
 	<key>description</key>
-	<string>Uses AnkiConnect to search the browser for the entered keyword</string>
+	<string>Launch and search Anki's browser for entered query</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
 	<string>Anking - Anki Searcher</string>
 	<key>objects</key>
 	<array>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>anki</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Search Anki browser for '{query}'</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -76,9 +55,40 @@ curl localhost:8765 -s -S -X POST -d "{\"version\": 6, \"action\": \"guiBrowse\"
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>as</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Search Anki's browser for '{query}'</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Launch and search Anki's browser for entered query via AnkiConnect.
+
+How to Setup:
+
+1. Install the AnkiConnect (https://ankiweb.net/shared/info/2055492159) add-on and restart Anki
+2. Follow the instructions under Notes for macOS Users here: https://foosoft.net/projects/anki-connect/
+3. Install thiss workflow.
+4. After toggling alfred, type 'as' followed by the term you want to search and press enter.
+
+
+https://github.com/AnKingMed/Alfred-Anki-Search</string>
 	<key>uidata</key>
 	<dict>
 		<key>16039760-F173-4AB8-9C73-DA7401D5DE23</key>

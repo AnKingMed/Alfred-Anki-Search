@@ -1,8 +1,12 @@
+Alfred workflow to launch and search Anki's browser for entered query via <a href="https://ankiweb.net/shared/info/2055492159">AnkiConnect add-on</a>.
+
+
+
 ## How to Setup
-1. Install the <a href="https://ankiweb.net/shared/info/2055492159">AnkiConnect</a> add-on and restart Anki
-2. If you are a Mac user, you will need to follow the <a href="https://foosoft.net/projects/anki-connect/">instructions</a> under `Notes for macOS Users` 
-3. Install the <a href="https://github.com/AnKingMed/Alfred-Anki-Search/releases">Alfred  Workflow</a>
-4. After toggling Alfred, type `anki` followed by the term you want to search
+1. Install the <a href="https://ankiweb.net/shared/info/2055492159">AnkiConnect add-on</a> add-on and restart Anki.
+2. Follow the <a href="https://foosoft.net/projects/anki-connect/">instructions</a> under `Notes for macOS Users` .
+3. Install the <a href="https://github.com/AnKingMed/Alfred-Anki-Search/releases">Alfred  Workflow</a>.
+4. After toggling Alfred, type `as` followed by the term you want to search and press <kbd>enter</kbd>.
 
 ## Screenshot
 <img src="/screenshots/Alfred Anki Searcher.gif">
