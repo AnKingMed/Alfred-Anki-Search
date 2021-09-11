@@ -15,6 +15,7 @@ Alfred workflow to launch and search Anki's browser for entered query via <a hre
 If you find a serious bug, please submit it on <a href="https://github.com/AnKingMed/Alfred-Anki-Search/issues" rel="nofollow">Github</a> or email us at ankingmed@gmail.com. Please remember that we are not coders and thus may not be able to provide support.
 
 ### Changelog:
+2021-09-011: Version 1.0
 2021-09-09: Initial Release
 
 
